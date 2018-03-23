@@ -1,0 +1,22 @@
+
+h1 {
+  font-family: "Courier", Times, serif;
+  color: plum;
+}
+
+p {
+  font-family: "Courier", Times, serif;
+  font-style: normal;
+}
+
+ul {
+  font-family: "Courier", Times, serif;
+}
+
+div{
+  border: dashed;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top:40px;
+  padding: 25px;
+}
