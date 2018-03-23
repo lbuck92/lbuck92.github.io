@@ -9,18 +9,6 @@ p{
   font-style: normal;
 }
 
-ul{
-  font-family: "Courier", Times, serif;
-}
-
-div{
-  border: dashed;
-  margin-left: 75px;
-  margin-right: 75px;
-  margin-top:40px;
-  padding: 25px;
-}
-
 #menu-div{
   background-color: plum;
   border: none;
@@ -44,4 +32,16 @@ div{
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
+}
+
+ul{
+  font-family: "Courier", Times, serif;
+}
+
+div{
+  border: dashed;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top:40px;
+  padding: 25px;
 }
