@@ -1,15 +1,15 @@
 
-h1 {
+h1{
   font-family: "Courier", Times, serif;
   color: plum;
 }
 
-p {
+p{
   font-family: "Courier", Times, serif;
   font-style: normal;
 }
 
-ul {
+ul{
   font-family: "Courier", Times, serif;
 }
 
@@ -19,4 +19,29 @@ div{
   margin-right: 75px;
   margin-top:40px;
   padding: 25px;
+}
+
+#menu-div{
+  background-color: plum;
+  border: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  padding: 2.5px;
+  text-transform: lowercase;
+}
+
+#menu{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#menu_li{
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: none;
 }
