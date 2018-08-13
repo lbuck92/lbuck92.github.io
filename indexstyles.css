@@ -28,8 +28,10 @@ p{
 }
 
 #project-div{
-  border: none;
+  border: double;
+  border-color: black;
   background-color: lightgrey;
+  width: 50%;
 }
 
 #menu{
