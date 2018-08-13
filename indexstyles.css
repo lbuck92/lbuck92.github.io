@@ -4,6 +4,10 @@ h1{
   color: plum;
 }
 
+h2{
+  font-family: "Courier", Times, serif;
+}
+
 p{
   font-family: "Courier", Times, serif;
   font-style: normal;
@@ -25,7 +29,7 @@ p{
 
 #project-div{
   border: none;
-  background-color: lightcoral;
+  background-color: lightgrey;
 }
 
 #menu{
