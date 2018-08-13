@@ -23,6 +23,11 @@ p{
   border: none;
 }
 
+#project-div{
+  border: none;
+  background-color: lightcoral;
+}
+
 #menu{
   list-style-type: none;
   margin: 0px;
