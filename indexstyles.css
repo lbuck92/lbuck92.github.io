@@ -27,14 +27,10 @@ p{
   border: none;
 }
 
-#projects{
-  display: inline-block;
-}
-
 #project-div{
   border: double;
   border-color: black;
-  background-color: lightgrey;
+  background-color: whitesmoke;
   width: 35%;
   display: inline-block;
 }
