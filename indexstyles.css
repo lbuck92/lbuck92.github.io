@@ -57,9 +57,9 @@ ul{
 }
 
 div{
-  border: dashed;
-  margin-left: 75px;
-  margin-right: 75px;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
   margin-top:40px;
   padding: 25px;
 }
