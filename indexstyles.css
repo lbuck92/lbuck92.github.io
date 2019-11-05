@@ -1,19 +1,4 @@
 
-h1{
-  font-family: "Times", Times, serif;
-  color: #FFFFFF;
-}
-
-h2{
-  font-family: "Times", Times, serif;
-  color: #bfa0e8;
-}
-
-p{
-  font-family: "Times", Times, serif;
-  font-style: normal;
-}
-
 .sidenav{
   height: 100%;
   width: 160px;
@@ -73,6 +58,21 @@ p{
   text-align: center;
   padding: 10px 40px;
   text-decoration: none;
+}
+
+h1{
+  font-family: "Times", Times, serif;
+  color: #FFFFFF;
+}
+
+h2{
+  font-family: "Times", Times, serif;
+  color: #bfa0e8;
+}
+
+p{
+  font-family: "Times", Times, serif;
+  font-style: normal;
 }
 
 ul{
