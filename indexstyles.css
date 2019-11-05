@@ -1,6 +1,7 @@
 
 h1{
   font-family: "Times", Times, serif;
+  color: #FFFFFF;
 }
 
 h2{
@@ -23,6 +24,11 @@ p{
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+
+}
+
+.sidenav p{
+  color: #FFFFFF;
 }
 
 .main{
