@@ -19,8 +19,8 @@
 .sidenav img{
   border-radius: 50%;
   vertical-align: middle;
-  width: 125px;
-  height: 125px;
+  max-width: 75%;
+  max-height: 75%;
 }
 
 .main{
