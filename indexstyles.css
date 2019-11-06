@@ -16,6 +16,10 @@
   color: #FFFFFF;
 }
 
+.sidenav img{
+  border-radius: 50%;
+}
+
 .main{
   margin-left: 245px;
   padding: 0px 10px;
