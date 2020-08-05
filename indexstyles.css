@@ -42,7 +42,7 @@ a.linkbutton:link, a.linkbutton:visited{
   margin-left: 50px;
   width: inherit;
   background: rgba(128, 128, 128, 0.3);
-  color: #000000;
+  color: black;
 }
 
 /*#menu-div{
