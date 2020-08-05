@@ -35,6 +35,11 @@ a.linkbutton:link, a.linkbutton:visited{
   margin-bottom: 10px;
 }
 
+.linkbreak{
+  width:inherit;
+  height: 5px;
+}
+
 #menu-div{
   background-color: plum;
   border: none;
