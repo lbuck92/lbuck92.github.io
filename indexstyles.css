@@ -30,6 +30,7 @@
 
 a.linkbutton:link, a.linkbutton:visited{
   display:block;
+  border-radius:12px;
   background-color: silver;
   text-align: center;
   padding: 10px 10px;
