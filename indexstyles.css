@@ -29,9 +29,10 @@
 }
 
 a.linkbutton:link, a.linkbutton:visited{
-  background-color: white;
+  background-color: silver;
   text-align: center;
   padding: 10px 10px;
+  margin-bottom: 10px;
 }
 
 #menu-div{
