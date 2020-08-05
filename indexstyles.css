@@ -9,7 +9,6 @@
   background-color: #111;
   overflow-x: hidden;
   padding-top: 5px;
-
 }
 
 .sidenav p{
@@ -41,47 +40,8 @@ a.linkbutton:link, a.linkbutton:visited{
 .project{
   margin-left: 50px;
   width: inherit;
-  background: rgba(128, 128, 128, 0.3);
+  /*background: rgba(128, 128, 128, 0.3);*/
   color: black;
-}
-
-/*#menu-div{
-  background-color: plum;
-  border: none;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 10px;
-  padding: 2.5px;
-  text-transform: lowercase;
-}*/
-
-#contact-div{
-  border: none;
-}
-
-#project-div{
-  border: double;
-  border-color: black;
-  background-color: whitesmoke;
-  width: 35%;
-  display: inline-block;
-  padding: 10px;
-  /*height: 400px;*/
-}
-
-#menu{
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  overflow: hidden;
-}
-
-#menu_li{
-  float: left;
-  display: block;
-  text-align: center;
-  padding: 10px 40px;
-  text-decoration: none;
 }
 
 h1{
@@ -111,7 +71,7 @@ div{
   padding: 25px;
 }
 
-.dropdown-content{
+/*.dropdown-content{
 
   position: absolute;
   background-color: RosyBrown;
@@ -125,16 +85,4 @@ div{
   display: block;
   text-align: left;
   text-decoration: none;
-}
-
-/*li a:hover, .dropdown:hover .dropbtn {
-  background-color: MediumOrchid;
-}
-
-li.dropdown {
-  display: inline-block;
-}
-
-.dropdown:hover .dropdown-content{
-  display: block;
 }*/
