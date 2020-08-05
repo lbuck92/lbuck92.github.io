@@ -32,6 +32,7 @@ a.linkbutton:link, a.linkbutton:visited{
   background-color: silver;
   text-align: center;
   padding: 10px 10px;
+  width:max-width;
   /*margin-bottom: 10px;*/
 }
 
