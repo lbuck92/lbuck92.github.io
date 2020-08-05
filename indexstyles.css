@@ -41,7 +41,7 @@ a.linkbutton:link, a.linkbutton:visited{
 .project{
   margin-left: 250px;
   width: inherit;
-  background-color: black;
+  background: rgba(128, 128, 128, 0.3);
   color: #FFFFFF;
 }
 
