@@ -28,7 +28,7 @@
   padding: 0px 10px;
 }
 
-.linkbutton a{
+a.linkbutton:link{
   background-color: white;
   border: 2px solid green;
 }
