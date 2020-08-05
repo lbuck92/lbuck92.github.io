@@ -39,13 +39,13 @@ a.linkbutton:link, a.linkbutton:visited{
 }
 
 .project{
-  margin-left: 250px;
+  margin-left: 50px;
   width: inherit;
   background: rgba(128, 128, 128, 0.3);
-  color: #FFFFFF;
+  color: #000000;
 }
 
-#menu-div{
+/*#menu-div{
   background-color: plum;
   border: none;
   margin-left: 0px;
@@ -53,7 +53,7 @@ a.linkbutton:link, a.linkbutton:visited{
   margin-top: 10px;
   padding: 2.5px;
   text-transform: lowercase;
-}
+}*/
 
 #contact-div{
   border: none;
