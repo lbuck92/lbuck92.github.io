@@ -1,25 +1,26 @@
 
 .sidenav{
   height: 100%;
-  width: 185px;
+  width: 195px;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #FFFFFF;
   overflow-x: hidden;
   padding-top: 5px;
+  border-right: 1px solid;
 }
 
 .sidenav p{
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .sidenav img{
-  border-radius: 50%;
+  border-radius: 8px;
   vertical-align: middle;
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 195px;
+  max-height: 110%;
 }
 
 .main{
@@ -46,12 +47,12 @@ a.linkbutton:link, a.linkbutton:visited{
 
 h1{
   font-family: "Times", Times, serif;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 h2{
   font-family: "Times", Times, serif;
-  color: #bfa0e8;
+  color: #87CEEB;
 }
 
 p{
@@ -69,6 +70,26 @@ div{
   margin-right: 100px;
   margin-top:0.5px;
   padding: 25px;
+}
+
+/* CSS */
+
+.sidebar {
+height: 200px;
+width: 175px;
+position: -webkit-sticky; /* for Safari users */
+position: sticky;
+top: 0px;
+float: right;
+margin-top: 0px;
+padding-top: 0.5px;
+background-color: #87CEEB;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
 }
 
 /*.dropdown-content{
