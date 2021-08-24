@@ -19,7 +19,7 @@
 .sidenav img{
   border-radius: 8px;
   vertical-align: middle;
-  max-width: 195px;
+  max-width: 215px;
   max-height: 110%;
 }
 
@@ -75,7 +75,7 @@ div{
 /* CSS */
 
 .sidebar {
-height: 200px;
+height: 250px;
 width: 175px;
 position: -webkit-sticky; /* for Safari users */
 position: sticky;
