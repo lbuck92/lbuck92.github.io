@@ -1,67 +1,57 @@
 
-.sidenav{
-  height: 100%;
-  width: 195px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #FFFFFF;
-  overflow-x: hidden;
-  padding-top: 5px;
-  border-right: 1px solid;
-}
-
-.sidenav p{
-  color: #000000;
-}
-
-.sidenav img{
-  border-radius: 8px;
-  vertical-align: middle;
-  max-width: 215px;
-  max-height: 110%;
+.header_and_menu{
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  color: #0e1925;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 30px;
+  max-width: 2500px;
 }
 
 .main{
-  margin-left: 245px;
-  padding: 0px 10px;
-}
-
-a.linkbutton:link, a.linkbutton:visited{
-  display:block;
-  border-radius:12px;
-  background-color: silver;
-  text-align: center;
-  padding: 10px 10px;
-  width:max-width;
-  /*margin-bottom: 10px;*/
-}
-
-.project{
-  margin-left: 50px;
-  width: inherit;
-  /*background: rgba(128, 128, 128, 0.3);*/
-  color: black;
-}
-
-h1{
-  font-family: "Times", Times, serif;
-  color: #000000;
-}
-
-h2{
-  font-family: "Times", Times, serif;
-  color: #87CEEB;
+  max-width: 1500px;
+  padding: 0px 30px;
 }
 
 p{
-  font-family: "Times", Times, serif;
-  font-style: normal;
+  font-family: 'Playfair Display', serif;
+  color: #0e1925;
+  padding-top: 10px;
+}
+
+h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 26px;
+  color: #87CEEB;
 }
 
 ul{
-  font-family: "Times", Times, serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 4px;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+  font-size: 26px;
+}
+
+li a{
+  display: block;
+  padding: 8px;
+}
+
+a:link,a:visited{
+  color: #506565;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
 }
 
 div{
@@ -71,8 +61,6 @@ div{
   margin-top:0.5px;
   padding: 25px;
 }
-
-/* CSS */
 
 .sidebar {
 height: 250px;
@@ -91,19 +79,3 @@ padding: 8px;
 font-size: 24px;
 display: block;
 }
-
-/*.dropdown-content{
-
-  position: absolute;
-  background-color: RosyBrown;
-  min-width: 160px;
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  display: block;
-  text-align: left;
-  text-decoration: none;
-}*/
