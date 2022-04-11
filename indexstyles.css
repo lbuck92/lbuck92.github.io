@@ -16,6 +16,15 @@
   padding: 0px 30px;
 }
 
+.publications{
+  padding: 0px 10px;
+  font-size: 14px;
+}
+
+div.publications a{
+  color: #003399;
+}
+
 p{
   font-family: 'Playfair Display', serif;
   color: #0e1925;
@@ -27,6 +36,24 @@ h1{
   font-size: 26px;
   color: 0e1925;
   /*color: #87CEEB;*/
+}
+
+h2{
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #003399;
+}
+
+h3{
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  color: 003399;
+  padding: 0px, 0px;
+}
+
+span{
+  font-size: 16px;
+  color: 003399;
 }
 
 ul{
